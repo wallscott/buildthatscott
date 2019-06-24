@@ -14,7 +14,7 @@ exploration foliation
             }
             .stz-form {background-color: rgb(40, 39, 82);
             }
-            body {background-color: rgb(77, 77, 168);
+            body {background-color: rgb(70, 77, 168);
             }
             #tyg-stz-2 {background-color: rgb(97, 22, 97);
             }
